@@ -4,3 +4,5 @@ Portfolio of my projects from Data Visualization course: This will include the c
 Initial E-Commerce Profitability Analysis, Develop basic profitability set of dashboards and explain your design , [a link to your published Tableau workbook](https://public.tableau.com/views/MIS_561_Flex_3_Sovatey_Prak/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to do this again, I would spend more time on exploring different visuals in Tableau.
 
 Account Profitability and Service Tiers, Develop set of dashboards and explain design, [a link to your published Tableau workbook]. (https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_2_17900592669070/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to do it again, I would spend more time on the visuals.
+
+Data Visualization-MIS 561, September 28th 2026, [a link to your published Tableau workbook](https://public.tableau.com/views/PowerBItraining/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
